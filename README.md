@@ -166,7 +166,7 @@ following steps (create/adapt first the directory
     cd my-coursera
     source bin/activate
     git clone https://github.com/coursera-dl/coursera-dl
-    cd coursera
+    cd coursera-dl
     pip install -r requirements.txt
     ./coursera-dl ...
 
